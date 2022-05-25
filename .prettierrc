@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  }
+}
